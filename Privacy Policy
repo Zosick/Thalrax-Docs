@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Thalrax - Privacy Policy</title>
+    <style>
+        body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; line-height: 1.6; max-width: 800px; margin: 40px auto; padding: 20px; color: #333; }
+        h1 { border-bottom: 2px solid #eee; padding-bottom: 10px; }
+        h3 { margin-top: 30px; }
+        ul { padding-left: 20px; }
+        li { margin-bottom: 10px; }
+        p { margin-top: 15px; }
+        code { background-color: #f4f4f4; padding: 2px 6px; border-radius: 4px; }
+    </style>
+</head>
+<body>
+    <h1>Privacy Policy for Thalrax Bot</h1>
+
+    <p><strong>Last Updated: November 10, 2025</strong></p>
+
+    <p>This Privacy Policy outlines how Thalrax Bot ("the Bot") collects, uses, and stores data. Your privacy and the privacy of your server members are important to us.</p>
+
+    <h3>1. Information We Collect</h3>
+    <p>The Bot is designed to collect only the data necessary for its security, moderation, and logging functions.</p>
+    <ul>
+        <li><strong>Server Configuration Data:</strong> We store server-specific settings, which include Guild (Server) IDs, configured channel IDs for logging, enabled/disabled security modules, and whitelisted role/channel IDs. This data is essential for the Bot to function correctly in your server.</li>
+        <li><strong>Moderation Data:</strong> To maintain a history of moderation actions, we store infraction logs. These logs include the User ID of the person being moderated, the User ID of the moderator who took the action, the type of infraction (e.g., "WARN", "MUTE"), the reason provided, and a timestamp.</li>
+        <li><strong>Cached & Processed Data:</strong> The Bot temporarily processes message content <em>only</em> to detect spam, malicious links, and other security threats. The content of deleted or edited messages may be posted in a configured log channel for moderation review but is <strong>not</strong> permanently stored in the Bot's database.</li>
+        <li><strong>What We Don't Store:</strong> We do not permanently store usernames, avatars, email addresses, or user message history (beyond what is passed to a log channel). All stored data is referenced by Discord's numerical IDs.</li>
+    </ul>
+
+    <h3>2. How We Use Your Information</h3>
+    <p>The data collected is used <strong>exclusively</strong> to provide the Bot's features:</p>
+    <ul>
+        <li>To configure and operate security modules.</li>
+        <li>To post logs to the correct channels in your server.</li>
+        <li>To maintain a moderation history for server administrators.</li>
+        <li>To execute automated actions based on your server's configuration.</li>
+    </ul>
+
+    <h3>3. Data Storage and Security</h3>
+    <p>All stored data is held in a MongoDB database. We take reasonable measures to secure this data from unauthorized access. Access to the database is restricted to the Bot's developers for maintenance and troubleshooting purposes only.</p>
+
+    <h3>4. Data Retention and Deletion</h3>
+    <ul>
+        <li><strong>Server Configuration:</strong> All of your server's configuration data is <strong>immediately and permanently deleted</strong> when you remove the Bot from your server. You can also delete this data at any time using the <code>/settings reset</code> command.</li>
+        <li><strong>Moderation Logs:</strong> Infraction logs are retained to provide a historical record for server moderators.</li>
+        <li><strong>Data Access & Deletion Requests:</strong> Server members can view their own infraction history using the <code>/admin history</code> command. For any other requests regarding data access or deletion, please contact us.</li>
+    </ul>
+
+    <h3>5. Third-Party Services</h3>
+    <p>The Bot utilizes the URLhaus API to automatically update its list of malicious domains. We only send domain names (URLs) to this service for checking. <strong>No user or server data is ever transmitted to this third party.</strong></p>
+
+    <h3>6. Changes to This Policy</h3>
+    <p>We may update this Privacy Policy from time to time. We will make reasonable efforts to notify server administrators of any significant changes. Continued use of the Bot after such changes constitutes your acceptance of the new policy.</p>
+
+    <h3>7. Contact</h3>
+    <p>For questions about this Privacy Policy, please contact us at <strong>thalraxdev.zset0@passinbox.com</strong>.</p>
+
+</body>
+</html>
