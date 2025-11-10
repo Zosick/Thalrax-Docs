@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Thalrax - Terms of Service</title>
+    <style>
+        body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; line-height: 1.6; max-width: 800px; margin: 40px auto; padding: 20px; color: #333; }
+        h1 { border-bottom: 2px solid #eee; padding-bottom: 10px; }
+        h3 { margin-top: 30px; }
+        ul { padding-left: 20px; }
+        li { margin-bottom: 10px; }
+        p { margin-top: 15px; }
+    </style>
+</head>
+<body>
+    <h1>Terms of Service for Thalrax Bot</h1>
+
+    <p><strong>Last Updated: November 10, 2025</strong></p>
+
+    <h3>1. Acceptance of Terms</h3>
+    <p>By inviting or using the Thalrax Bot ("the Bot") in your Discord server, you and your server members agree to be bound by these Terms of Service ("ToS"). If you do not agree to these terms, you must not use the Bot and should remove it from your server.</p>
+
+    <h3>2. Description of Service</h3>
+    <p>The Bot provides a suite of automated tools for server moderation, security, and logging. Its features include, but are not limited to, anti-spam, anti-raid, anti-link protection, a member verification system, comprehensive logging of server events, and manual moderation commands for server administrators.</p>
+
+    <h3>3. User and Administrator Responsibilities</h3>
+    <ul>
+        <li><em>Administrators:</em> You are responsible for the initial setup and configuration of the Bot. This includes setting up roles, channels, and permissions as required for the Bot to function correctly. You are also responsible for how you use the Bot's moderation tools.</li>
+        <li><em>Server Members:</em> All users must abide by the rules of the server in which the Bot is used. Attempting to abuse, exploit, or circumvent the Bot's security features is strictly prohibited.</li>
+    </ul>
+
+    <h3>4. Bot Usage and Discretion</h3>
+    <p>The Bot's automated actions (e.g., muting for spam, deleting malicious links) are based on pre-configured settings. While designed for accuracy, the Bot is a tool to assist human moderators. Server administrators retain final discretion over all moderation actions. The Bot's developers are not responsible for actions taken by the Bot as configured by server administrators.</p>
+
+    <h3>5. Termination of Service</h3>
+    <p>You may terminate this agreement at any time by removing the Bot from your Discord server. We reserve the right to disable the Bot's functionality in your server if we detect abuse or violation of these terms or Discord's own Terms of Service.</p>
+
+    <h3>6. Disclaimer of Warranties</h3>
+    <p>The Bot is provided "as is," without warranty of any kind, express or implied. We do not guarantee that the Bot will be available 100% of the time, be free of errors, or meet your specific requirements.</p>
+
+    <h3>7. Limitation of Liability</h3>
+    <p>In no event shall the developers of Thalrax be liable for any claim, damages, or other liability, whether in an action of contract, tort, or otherwise, arising from, out of, or in connection with the Bot or the use or other dealings in the Bot. This includes loss of data, server disruption, or any other damages.</p>
+
+    <h3>8. Privacy Policy</h3>
+    <p>Your privacy is important to us. By using the Bot, you also agree to our Privacy Policy, which details what information we collect, how we use it, and how we protect it. You can review our Privacy Policy here: 
+    <strong><a href="[Link to Your Privacy Policy Page]">[Link to Your Privacy Policy Page]</a></strong></p>
+
+    <h3>9. Changes to Terms</h3>
+    <p>We reserve the right to modify these terms at any time. Continued use of the Bot after such changes constitutes your acceptance of the new terms.</p>
+
+    <h3>10. Contact</h3>
+    <p>For questions about these terms, please contact <strong>thalraxdev.zset0@passinbox.com</strong>.</p>
+
+</body>
+</html>
