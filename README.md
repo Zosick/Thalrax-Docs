@@ -30,8 +30,8 @@ Thalrax provides detailed audit logs for server events:
 
 By using Thalrax, you agree to the following terms:
 
-* [**Terms of Service**](tos.html) - Rules regarding the usage of the bot.
-* [**Privacy Policy**](privacy.html) - Details on data collection (IDs, logs) and retention.
+* [**Terms of Service**](https://zosick.github.io/Thalrax-Docs/tos.html) - Rules regarding the usage of the bot.
+* [**Privacy Policy**](https://zosick.github.io/Thalrax-Docs/privacy.html) - Details on data collection (IDs, logs) and retention.
 
 ## 📞 Contact
 
